@@ -1,0 +1,32 @@
+main {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.card {
+    width: 350px;
+    background-color: rgb(235, 235, 235);
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.coffee-img {
+    width: 100%;
+    border-top: 1px rgb(227, 217, 217) solid;
+}
+
+.kinds {
+    text-align: center;
+    font-family: "Roboto Condensed";     
+    font-weight: 100;
+    text-transform: uppercase;
+    font-size: larger;
+}
+
+.card-text {
+    padding: 1rem;
+}
+
